@@ -1,4 +1,4 @@
 # Swift Package Process
 
-http://www.alwaysrightinstitute.com/swift-dynamic-callable/>
+http://www.alwaysrightinstitute.com/swift-dynamic-callable
 
